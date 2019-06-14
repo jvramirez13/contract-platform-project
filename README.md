@@ -1,6 +1,6 @@
 # Contract Platform Project
 
-This project was created using React.JS and it utilizes the Axios Node module to make an API request and display a certain Star Wars character from a click of a button.
+A platform created with React JS enabling companies to find freelancers to complete various software engineering tracks for a certain price.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
