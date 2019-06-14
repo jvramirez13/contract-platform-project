@@ -1,0 +1,15 @@
+.postHistory {
+    display: inline-grid;
+    grid-row-gap: 50px;
+    grid-row-gap: 50px;
+    /* display: grid;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;  */
+}
+
+.postBar * {
+    width: 70%;
+    display: inline-block;
+}
+

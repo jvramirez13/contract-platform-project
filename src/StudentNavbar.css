@@ -1,0 +1,41 @@
+@import "~antd/dist/antd.css";
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #3f51b5;
+  cursor: pointer;
+}
+
+/* Style the active class (and buttons on mouse-over) */
+.active,
+.btn:hover {
+  background-color: #3f51b5;
+  color: white;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #3f51b5;
+  cursor: pointer;
+}
+
+menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background: black;
+}
+
+.menu {
+  background-color: black;
+}
+
+.ant-menu {
+  background: green;
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background: transparent;
+  background-color: green;
+}

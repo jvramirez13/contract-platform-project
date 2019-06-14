@@ -1,0 +1,22 @@
+.new-contract {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-self: center;
+    padding: 10px;
+    background-color: white;
+    border-radius: 25px;
+    border: black;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding: center;
+}
