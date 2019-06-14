@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Projects such as create-react-app, nwb and react-slingshot have been used to setup development envs.
 
-Install all the required packages/dependencies using yarn build
+Install all the required packages/dependencies using yarn install
 
 ### `yarn`
 
